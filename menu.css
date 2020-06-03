@@ -1,0 +1,106 @@
+.main
+{
+	background-color: maroon;
+	height: 1200px;
+	width: 1500px;
+	margin: auto;
+
+}
+.head
+{
+	width: 1500px;
+	height: 120px;
+	background-color: yellow;
+	margin: auto;
+	
+
+
+}
+.head_left
+{
+	width: 200px;
+	height: 120px;
+	
+	float: left;
+	
+
+}
+.head_mid
+{
+	
+	width: 600px;
+	height: 120px;
+	text-align: center;
+	float: left;
+
+}
+.head_right
+{
+	
+	width: 600px;
+	height: 120px;
+	float: left;
+
+}
+.head_right_footer
+{
+	width: 600px;
+	height: 36px;
+	
+	color: maroon;
+}
+.head2
+{
+	width: 1500px;
+	height: 24px;
+	background-color: #17a05d;
+}
+.mid
+{
+width: 1500px;
+height: 900px;
+
+}
+
+.footer
+{
+	width: 1500px;
+	height: 156px;
+	background-color: grey;
+
+}
+.foot_l
+{
+	width: 500px;
+	height: 156px;
+	
+	float: left;
+}
+.foot_m
+{
+	width: 500px;
+	height: 156px;
+
+	float: left;
+}
+.foot_r
+{
+	width: 500px;
+	height: 156px;
+	
+	margin: auto;
+	float: left;
+}
+.foot_r_l
+{width: 380px;
+
+height: 156px;
+float: left;
+}
+.foot_r_r
+{
+width: 120px;
+height: 156px;
+
+float: left;
+}
